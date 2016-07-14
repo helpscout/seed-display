@@ -5,6 +5,6 @@
   @import "pack/seed-breakpoints/_index";
 
   @include breakpoint-prop-map($seed-display, (prop)) {
-    display: prop(prop);
+    display: prop(prop) !important;
   }
 }

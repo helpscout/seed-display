@@ -4,64 +4,64 @@
  * Licensed under MIT
  */
 .u-d-initial {
-  display: initial; }
+  display: initial !important; }
 
 .u-d-none {
-  display: none; }
+  display: none !important; }
 
 .u-d-block {
-  display: block; }
+  display: block !important; }
 
 .u-d-inline {
-  display: inline; }
+  display: inline !important; }
 
 .u-d-inline-block {
-  display: inline-block; }
+  display: inline-block !important; }
 
 @media (min-width: 544px) {
   .u-d-initial--at-sm {
-    display: initial; }
+    display: initial !important; }
   .u-d-none--at-sm {
-    display: none; }
+    display: none !important; }
   .u-d-block--at-sm {
-    display: block; }
+    display: block !important; }
   .u-d-inline--at-sm {
-    display: inline; }
+    display: inline !important; }
   .u-d-inline-block--at-sm {
-    display: inline-block; } }
+    display: inline-block !important; } }
 
 @media (min-width: 768px) {
   .u-d-initial--at-md {
-    display: initial; }
+    display: initial !important; }
   .u-d-none--at-md {
-    display: none; }
+    display: none !important; }
   .u-d-block--at-md {
-    display: block; }
+    display: block !important; }
   .u-d-inline--at-md {
-    display: inline; }
+    display: inline !important; }
   .u-d-inline-block--at-md {
-    display: inline-block; } }
+    display: inline-block !important; } }
 
 @media (min-width: 992px) {
   .u-d-initial--at-lg {
-    display: initial; }
+    display: initial !important; }
   .u-d-none--at-lg {
-    display: none; }
+    display: none !important; }
   .u-d-block--at-lg {
-    display: block; }
+    display: block !important; }
   .u-d-inline--at-lg {
-    display: inline; }
+    display: inline !important; }
   .u-d-inline-block--at-lg {
-    display: inline-block; } }
+    display: inline-block !important; } }
 
 @media (min-width: 1200px) {
   .u-d-initial--at-xl {
-    display: initial; }
+    display: initial !important; }
   .u-d-none--at-xl {
-    display: none; }
+    display: none !important; }
   .u-d-block--at-xl {
-    display: block; }
+    display: block !important; }
   .u-d-inline--at-xl {
-    display: inline; }
+    display: inline !important; }
   .u-d-inline-block--at-xl {
-    display: inline-block; } }
+    display: inline-block !important; } }

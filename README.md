@@ -1,7 +1,5 @@
 # seed-display
-Display utility pack for Seed
-
-utility pack for [Seed](https://github.com/helpscout/seed)!
+Display utility pack for [Seed](https://github.com/helpscout/seed)!
 
 ## Install
 ```

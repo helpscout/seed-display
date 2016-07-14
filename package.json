@@ -27,8 +27,7 @@
     "seed-pack",
     "scss"
   ],
-  "authors": [
-  ],
+  "authors": [],
   "license": "MIT",
   "engines": {
     "node": ">=4"
@@ -36,5 +35,8 @@
   "devDependencies": {
     "mkdirp": "^0.5.1",
     "node-sass": "^3.8.0"
+  },
+  "dependencies": {
+    "seed-breakpoints": "^0.2.1"
   }
 }

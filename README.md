@@ -41,5 +41,15 @@ Once that is setup, simply `@import` *seed-display* as needed in your `.scss` fi
 The following variables can be found in `_config.scss`
 
 ```sass
-seed-display config options
+// Namespaces
+$seed-display-namespace: "u-d" !default;
+
+// Displays
+$seed-display: (
+  initial: initial,
+  none: none,
+  block: block,
+  inline: inline,
+  inline-block: inline-block
+) !default;
 ```

@@ -1,5 +1,5 @@
 /**
- * seed-display v0.0.1 (https://github.com/helpscout/seed-display)
+ * seed-display v0.0.2 (https://github.com/helpscout/seed-display)
  * Display utility pack for Seed
  * Licensed under MIT
  */
@@ -19,49 +19,49 @@
   display: inline-block !important; }
 
 @media (min-width: 544px) {
-  .u-d-initial--at-sm {
+  .u-d-initial\@sm {
     display: initial !important; }
-  .u-d-none--at-sm {
+  .u-d-none\@sm {
     display: none !important; }
-  .u-d-block--at-sm {
+  .u-d-block\@sm {
     display: block !important; }
-  .u-d-inline--at-sm {
+  .u-d-inline\@sm {
     display: inline !important; }
-  .u-d-inline-block--at-sm {
+  .u-d-inline-block\@sm {
     display: inline-block !important; } }
 
 @media (min-width: 768px) {
-  .u-d-initial--at-md {
+  .u-d-initial\@md {
     display: initial !important; }
-  .u-d-none--at-md {
+  .u-d-none\@md {
     display: none !important; }
-  .u-d-block--at-md {
+  .u-d-block\@md {
     display: block !important; }
-  .u-d-inline--at-md {
+  .u-d-inline\@md {
     display: inline !important; }
-  .u-d-inline-block--at-md {
+  .u-d-inline-block\@md {
     display: inline-block !important; } }
 
 @media (min-width: 992px) {
-  .u-d-initial--at-lg {
+  .u-d-initial\@lg {
     display: initial !important; }
-  .u-d-none--at-lg {
+  .u-d-none\@lg {
     display: none !important; }
-  .u-d-block--at-lg {
+  .u-d-block\@lg {
     display: block !important; }
-  .u-d-inline--at-lg {
+  .u-d-inline\@lg {
     display: inline !important; }
-  .u-d-inline-block--at-lg {
+  .u-d-inline-block\@lg {
     display: inline-block !important; } }
 
 @media (min-width: 1200px) {
-  .u-d-initial--at-xl {
+  .u-d-initial\@xl {
     display: initial !important; }
-  .u-d-none--at-xl {
+  .u-d-none\@xl {
     display: none !important; }
-  .u-d-block--at-xl {
+  .u-d-block\@xl {
     display: block !important; }
-  .u-d-inline--at-xl {
+  .u-d-inline\@xl {
     display: inline !important; }
-  .u-d-inline-block--at-xl {
+  .u-d-inline-block\@xl {
     display: inline-block !important; } }

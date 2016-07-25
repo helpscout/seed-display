@@ -1,67 +1,38 @@
 /**
- * seed-display v0.0.2 (https://github.com/helpscout/seed-display)
+ * seed-display v0.1.0 (https://github.com/helpscout/seed-display)
  * Display utility pack for Seed
  * Licensed under MIT
  */
-.u-d-initial {
-  display: initial !important; }
+.u-d-initial { display: initial !important; }
 
-.u-d-none {
-  display: none !important; }
+.u-d-none { display: none !important; }
 
-.u-d-block {
-  display: block !important; }
+.u-d-block { display: block !important; }
 
-.u-d-inline {
-  display: inline !important; }
+.u-d-inline { display: inline !important; }
 
-.u-d-inline-block {
-  display: inline-block !important; }
+.u-d-inline-block { display: inline-block !important; }
 
-@media (min-width: 544px) {
-  .u-d-initial\@sm {
-    display: initial !important; }
-  .u-d-none\@sm {
-    display: none !important; }
-  .u-d-block\@sm {
-    display: block !important; }
-  .u-d-inline\@sm {
-    display: inline !important; }
-  .u-d-inline-block\@sm {
-    display: inline-block !important; } }
+@media (min-width: 544px) { .u-d-initial\@sm { display: initial !important; }
+  .u-d-none\@sm { display: none !important; }
+  .u-d-block\@sm { display: block !important; }
+  .u-d-inline\@sm { display: inline !important; }
+  .u-d-inline-block\@sm { display: inline-block !important; } }
 
-@media (min-width: 768px) {
-  .u-d-initial\@md {
-    display: initial !important; }
-  .u-d-none\@md {
-    display: none !important; }
-  .u-d-block\@md {
-    display: block !important; }
-  .u-d-inline\@md {
-    display: inline !important; }
-  .u-d-inline-block\@md {
-    display: inline-block !important; } }
+@media (min-width: 768px) { .u-d-initial\@md { display: initial !important; }
+  .u-d-none\@md { display: none !important; }
+  .u-d-block\@md { display: block !important; }
+  .u-d-inline\@md { display: inline !important; }
+  .u-d-inline-block\@md { display: inline-block !important; } }
 
-@media (min-width: 992px) {
-  .u-d-initial\@lg {
-    display: initial !important; }
-  .u-d-none\@lg {
-    display: none !important; }
-  .u-d-block\@lg {
-    display: block !important; }
-  .u-d-inline\@lg {
-    display: inline !important; }
-  .u-d-inline-block\@lg {
-    display: inline-block !important; } }
+@media (min-width: 992px) { .u-d-initial\@lg { display: initial !important; }
+  .u-d-none\@lg { display: none !important; }
+  .u-d-block\@lg { display: block !important; }
+  .u-d-inline\@lg { display: inline !important; }
+  .u-d-inline-block\@lg { display: inline-block !important; } }
 
-@media (min-width: 1200px) {
-  .u-d-initial\@xl {
-    display: initial !important; }
-  .u-d-none\@xl {
-    display: none !important; }
-  .u-d-block\@xl {
-    display: block !important; }
-  .u-d-inline\@xl {
-    display: inline !important; }
-  .u-d-inline-block\@xl {
-    display: inline-block !important; } }
+@media (min-width: 1200px) { .u-d-initial\@xl { display: initial !important; }
+  .u-d-none\@xl { display: none !important; }
+  .u-d-block\@xl { display: block !important; }
+  .u-d-inline\@xl { display: inline !important; }
+  .u-d-inline-block\@xl { display: inline-block !important; } }

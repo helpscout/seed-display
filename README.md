@@ -4,7 +4,7 @@ Display utility pack for [Seed](https://github.com/helpscout/seed)!
 
 ## Install
 ```
-npm install seed-display --save-dev
+npm install seed-display --save
 ```
 
 

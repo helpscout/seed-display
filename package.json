@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "mkdirp": "^0.5.1",
-    "node-sass": "^3.9.0"
+    "node-sass": "^3.10.0"
   },
   "dependencies": {
     "seed-breakpoints": "^0.3.2"

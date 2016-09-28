@@ -30,9 +30,3 @@
   .u-d-block\@lg { display: block !important; }
   .u-d-inline\@lg { display: inline !important; }
   .u-d-inline-block\@lg { display: inline-block !important; } }
-
-@media (min-width: 1200px) { .u-d-initial\@xl { display: initial !important; }
-  .u-d-none\@xl { display: none !important; }
-  .u-d-block\@xl { display: block !important; }
-  .u-d-inline\@xl { display: inline !important; }
-  .u-d-inline-block\@xl { display: inline-block !important; } }

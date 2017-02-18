@@ -54,6 +54,7 @@ $seed-display: (
   none: none,
   block: block,
   inline: inline,
-  inline-block: inline-block
+  inline-block: inline-block,
+  flex: flex,
 ) !default;
 ```
